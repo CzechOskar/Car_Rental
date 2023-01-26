@@ -117,17 +117,5 @@
 	</div>
 </div>
 <!-- End Container -->
-
-<!-- Footer -->
-<div id="footer">
-	<div class="shell">
-	<span class="left">&copy; <?php echo date("Y");?> - Simple Car Rental System</span>
-	<span class="right">
-			</a>
-		</span>
-	</div>
-</div>
-<!-- End Footer -->
-	
 </body>
 </html>
